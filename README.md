@@ -1,7 +1,6 @@
 
 
 
-
 PATTCALL
 
 
@@ -9,7 +8,7 @@ This is going to be a collection of some numerical routines related to pattern c
 
 The code will be added from time to time.
 
-And, it a new code module may be added even if it is not complete or working.
+And, a new code module may be added even if it is not complete or working.
 
 There will be an attempt to get working items together.
 
